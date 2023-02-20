@@ -29,7 +29,9 @@
             "apprentice": false,
             "english_native": true,
             "interpreter_required": false,
-            "medical_issues": null
+            "medical_issues": null,
+            "induction_number": 265,
+            "site_id": 16722
         }
     ],
     "Attendances":[
