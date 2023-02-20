@@ -1,0 +1,67 @@
+{
+    "Projects":[
+        {
+            "id": 16722,
+            "name": " Australian Retirement Trust(ART)",
+            "internal_reference": "BQ5153",
+            "is_active": true
+        }
+    ],
+    "Users":[
+        {
+            "first_name": "Jack",
+            "last_name": "Clarke",
+            "company_name": "Programmed Electrical",
+            "phone_number": "+61405556758",
+            "email": "jack.clarke@programmed.com.au",
+            "date_of_birth": "1991-07-27",
+            "gender": "Male",
+            "experienced": true,
+            "trade": "electrical",
+            "post_code": "5120",
+            "indigenous": false,
+            "apprentice": false,
+            "english_native": true,
+            "interpreter_required": false,
+            "medical_issues": null
+        }
+    ],
+    "Attendances":[
+        {
+            "id": 18905858,
+            "signon_at": "2023-01-02T19:37:55+00:00",
+            "signoff_at": "2023-01-03T05:15:56+00:00",
+            "company": {
+                "id": 33513,
+                "name": "Programmed Electrical"
+            },
+            "is_visitor": false,
+            "is_inducted_to_site": true,
+            "is_hidden": false,
+            "user": {
+                "id": 414567,
+                "first_name": "Jack",
+                "last_name": "Clarke",
+                "email": "jack.clarke@programmed.com.au"
+            }
+        },
+        {
+            "id": 18910011,
+            "signon_at": "2023-01-03T19:47:44+00:00",
+            "signoff_at": "2023-01-04T05:22:40+00:00",
+            "company": {
+                "id": 33513,
+                "name": "Programmed Electrical"
+            },
+            "is_visitor": false,
+            "is_inducted_to_site": true,
+            "is_hidden": false,
+            "user": {
+                "id": 414567,
+                "first_name": "Jack",
+                "last_name": "Clarke",
+                "email": "jack.clarke@programmed.com.au"
+            }
+        }
+    ]
+}
